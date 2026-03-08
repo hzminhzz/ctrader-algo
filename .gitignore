@@ -1,0 +1,14 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+.dotnet/
+.dotnet-install.sh
+.ctrader-host/
+.sisyphus/
+ctrader/cli/runtime/ctid-password.txt
+ctrader/cli/runtime/report.html
+ctrader/cli/runtime/report.json
+ctrader/cli/runtime/data/
+*.pyo
+*.pyd

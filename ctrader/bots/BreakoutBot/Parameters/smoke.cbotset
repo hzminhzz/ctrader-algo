@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parameters>
+  <Parameter Name="BreakoutLookback" Value="20" />
+  <Parameter Name="RiskPerTrade" Value="0.01" />
+  <Parameter Name="SessionFilter" Value="London" />
+  <Parameter Name="StopLoss" Value="20" />
+  <Parameter Name="TakeProfit" Value="40" />
+</Parameters>

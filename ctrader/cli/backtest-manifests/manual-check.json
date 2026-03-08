@@ -1,0 +1,13 @@
+{
+  "strategy_id": "breakout-bot",
+  "symbol": "EURUSD",
+  "timeframe": "H1",
+  "start": "2025-01-01T00:00:00Z",
+  "end": "2025-01-31T00:00:00Z",
+  "starting_balance": 10000.0,
+  "spread_mode": "fixed",
+  "commission_mode": "per_lot",
+  "parameter_set_path": "ctrader/bots/BreakoutBot/Parameters/smoke.cbotset",
+  "output_path": "ctrader/cli/backtest-manifests/manual-check.json",
+  "run_id": "run-001"
+}

@@ -1,0 +1,15 @@
+{
+  "run_id": "run-001",
+  "strategy_id": "bots",
+  "symbol": "EURUSD",
+  "start_time_utc": "2025-01-01T00:00:00Z",
+  "end_time_utc": "2025-01-31T00:00:00Z",
+  "metrics": {
+    "net_profit": 0.0,
+    "max_drawdown": 0.0,
+    "win_rate": 0.0
+  },
+  "artifacts": {
+    "report_json": "ctrader/cli/runtime/report.json"
+  }
+}

@@ -1,0 +1,12 @@
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/bin/Release/net6.0/BreakoutBot.deps.json
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/bin/Release/net6.0/BreakoutBot.dll
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/bin/Release/net6.0/BreakoutBot.pdb
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.csproj.AssemblyReference.cache
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.AssemblyInfoInputs.cache
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.AssemblyInfo.cs
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.csproj.CoreCompileInputs.cache
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.dll
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/refint/BreakoutBot.dll
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/BreakoutBot.pdb
+/Users/minhvu/Downloads/Dev/Ctrader/ctrader/bots/BreakoutBot/obj/Release/net6.0/ref/BreakoutBot.dll

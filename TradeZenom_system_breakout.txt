@@ -1,0 +1,223 @@
+1
+00:00:00,000 --> 00:00:03,800
+In less than two hours, an AI agent built a full backtesting pipeline for NinjaTrader 8.
+
+2
+00:00:03,800 --> 00:00:08,200
+It deployed the strategy, compiled it, ran the backtest, and collected the results,
+
+3
+00:00:08,200 --> 00:00:11,500
+all without me touching a single button.
+
+4
+00:00:11,500 --> 00:00:16,000
+Probably only 0.1% of this industry is using AI agents.
+
+5
+00:00:16,000 --> 00:00:19,500
+Most people aren't even using regular AI for coding.
+
+6
+00:00:19,500 -->:00:00:23,500
+They're still fully discretionary or watching YouTube videos about how to code.
+
+7
+00:00:23,500 --> 00:00:27,000
+We have a massive edge right now, and the window is closing.
+
+8
+00:00:27,000 --> 00:00:32,000
+I'm not an AI influencer, and I'm not selling a course on ChatGPT prompts.
+
+9
+00:00:32,000 --> 00:00:35,500
+I'm a systematic trader running a diversified portfolio
+
+10
+00:00:35,500 --> 00:00:39,000
+across multiple prop firm accounts and instruments.
+
+11
+00:00:39,000 --> 00:00:43,500
+In the last few months, AI agents changed everything about how I work.
+
+12
+00:00:43,500 --> 00:00:48,000
+I went from thinking AI was overhyped to building things in days
+
+13
+00:00:48,000 --> 00:00:51,000
+that would have taken me over a year.
+
+14
+00:00:51,000 --> 00:00:55,500
+This isn't theory. This is what I actually built, what actually worked,
+
+15
+00:00:55,500 --> 00:00:59,000
+and why I think this is the biggest edge in trading right now.
+
+16
+00:00:59,000 --> 00:01:03,000
+Back in December 2025, I was saying things like the benchmarks are overfitted,
+
+17
+00:01:03,000 --> 00:01:07,000
+there's no real progress, just inflated numbers to raise investor capital.
+
+18
+00:01:07,000 --> 00:01:10,500
+I tried open-source models and they were terrible.
+
+19
+00:01:10,500 --> 00:01:14,500
+I literally said this was the biggest bubble humanity has ever seen.
+
+20
+00:01:14,500 --> 00:01:17,500
+Then I tried Claude Code.
+
+21
+00:01:17,500 --> 00:01:21,500
+An actual AI agent that can read files, write code, execute commands,
+
+22
+00:01:21,500 --> 00:01:24,000
+and iterate on its own mistakes.
+
+23
+00:01:24,000 --> 00:01:28,500
+In the first two hours, it built a full backtesting pipeline for NinjaTrader 8.
+
+24
+00:01:28,500 --> 00:01:32,000
+It fixes the code, re-compiles, and collects the results
+
+25
+00:01:32,000 --> 00:01:35,000
+into a JSON file with every metric you need.
+
+26
+00:01:35,000 --> 00:01:39,000
+In the first week, I built a full trading journal and prop firm simulator,
+
+27
+00:01:39,000 --> 00:01:43,000
+calculating Sharpe ratio, drawdown, and correlation across the portfolio.
+
+28
+00:01:43,000 --> 00:01:47,500
+I built a Discord bot for my community with a full XP and automation system.
+
+29
+00:01:47,500 --> 00:01:52,500
+I even built a tweet pipeline that scrapes my messages and turns them into drafts.
+
+30
+00:01:52,500 --> 00:01:57,000
+We wrote over 300,000 lines of code together, and I didn't write a single line manually.
+
+31
+00:01:57,000 --> 00:02:01,000
+AI is asking ChatGPT a question and getting an answer.
+
+32
+00:02:01,000 --> 00:02:05,000
+An agent is giving AI access to your file system, terminal, and trading platform.
+
+33
+00:02:05,000 --> 00:02:09,000
+It plans, executes, hits errors, fixes them, and keeps going.
+
+34
+00:02:09,000 --> 00:02:14,000
+A trader using AI agents is like a team of 10 to 15 professional traders
+
+35
+00:02:14,000 --> 00:02:17,000
+compared to a single person with a notebook.
+
+36
+00:02:17,000 --> 00:02:22,000
+The agent is good at strategy development, debugging, and portfolio analysis.
+
+37
+00:02:22,000 --> 00:02:26,000
+It builds tools that would take hours in Excel in just minutes.
+
+38
+00:02:26,000 --> 00:02:30,500
+It’s not replacing my trading decisions; it's replacing the 90% of work that isn't trading.
+
+39
+00:02:30,500 --> 00:02:34,500
+But AI agents are not a magic money printer.
+
+40
+00:02:34,500 --> 00:02:38,500
+Creativity is still human. The agent can't come up with a novel trading concept.
+
+41
+00:02:38,500 --> 00:02:43,000
+When I say your imagination is the only limiting factor, I mean it literally.
+
+42
+00:02:43,000 --> 00:02:47,500
+Coding used to be the bottleneck. Now the agent codes for you.
+
+43
+00:02:47,500 --> 00:02:51,500
+Math and brute-force backtesting used to be the bottleneck. Not anymore.
+
+44
+00:02:51,500 --> 00:02:56,000
+What’s left is creativity, original thinking, and the ability to ask the right questions.
+
+45
+00:02:56,000 --> 00:03:00,500
+The people who learn how to direct AI agents effectively are going to eat everyone else alive.
+
+46
+00:03:00,500 --> 00:03:05,000
+99% of traders can't deploy a simple strategy, and they won't learn.
+
+47
+00:03:05,000 --> 00:03:09,500
+Meanwhile, I'm running autonomous pipelines while I sleep.
+
+48
+00:03:09,500 --> 00:03:13,500
+The gap between people who use this technology and those who don't is becoming unbridgeable.
+
+49
+00:03:13,500 --> 00:03:17,000
+How do you start? First, install Claude Code.
+
+50
+00:03:17,000 --> 00:03:20,500
+Second, start small. Ask it to write a simple indicator.
+
+51
+00:03:20,500 --> 00:03:25,000
+Third, give it access to your real workflow. Learn to direct, not code.
+
+52
+00:03:25,000 --> 00:03:29,000
+AI agents are the biggest edge in trading right now because they make you
+
+53
+00:03:29,000 --> 00:03:32,000
+10 to 15 times more productive at everything.
+
+54
+00:03:32,000 --> 00:03:36,000
+In a year, this will be normal. In two years, you won't be competitive without it.
+
+55
+00:03:36,000 --> 00:03:40,000
+Comment "AI Agent" and I'll record the full autonomous backtesting pipeline running live.
+
+56
+00:03:40,000 --> 00:03:44,000
+Don't forget to like and subscribe.

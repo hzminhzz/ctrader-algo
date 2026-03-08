@@ -1,0 +1,12 @@
+{
+  "event_id": "run-001-completed",
+  "run_id": "run-001",
+  "source": "ctrader_cli",
+  "event_type": "run_completed",
+  "timestamp_utc": "2025-01-31T00:00:00Z",
+  "payload": {
+    "strategy_id": "breakout-bot",
+    "symbol": "EURUSD"
+  },
+  "approval_state": "not_required"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "run_id": "run-001",
+    "pnl": 100.0,
+    "strategy_id": "breakout-bot-a"
+  },
+  {
+    "run_id": "run-002",
+    "pnl": -50.0,
+    "strategy_id": "breakout-bot-a"
+  },
+  {
+    "run_id": "run-003",
+    "pnl": 75.0,
+    "strategy_id": "breakout-bot-b"
+  }
+]

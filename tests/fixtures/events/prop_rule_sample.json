@@ -1,0 +1,10 @@
+{
+  "rule_pack": "starter_prop_pack",
+  "daily_pnl": -600.0,
+  "daily_loss_limit": 500.0,
+  "trailing_drawdown": 250.0,
+  "trailing_drawdown_limit": 1000.0,
+  "open_positions": 1,
+  "max_positions": 3,
+  "within_trading_window": true
+}
