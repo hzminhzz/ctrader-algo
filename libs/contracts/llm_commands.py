@@ -5,6 +5,7 @@ from typing import ClassVar, Literal
 from pydantic import BaseModel, ConfigDict
 
 LlmAction = Literal[
+    "generate_strategy_draft",
     "propose_strategy_change",
     "propose_parameter_sweep",
     "summarize_results",

@@ -10,6 +10,11 @@ class RoutedCommand:
 
 
 def classify_action(action: str) -> RoutedCommand:
+    if action == "generate_strategy_draft":
+        return RoutedCommand(
+            classification="internal_state_mutation_allowed", retry_allowed=True
+        )
+
     if action in {"summarize_results", "draft_discord_message", "draft_tweet"}:
         return RoutedCommand(classification="advisory_only", retry_allowed=True)
 

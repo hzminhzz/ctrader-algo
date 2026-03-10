@@ -1,0 +1,7 @@
+{
+  "title": "London breakout",
+  "goal": "Trade London breakout moves on EURUSD.",
+  "entry_idea": "Enter when price breaks above the session range high.",
+  "exit_idea": "Exit at stop loss or fixed take profit.",
+  "risk_notes": "Use 1 percent risk per trade."
+}
