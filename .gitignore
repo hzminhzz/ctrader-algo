@@ -10,5 +10,6 @@ ctrader/cli/runtime/ctid-password.txt
 ctrader/cli/runtime/report.html
 ctrader/cli/runtime/report.json
 ctrader/cli/runtime/data/
+ctrader/cli/backtest-manifests/operator-generated.json
 *.pyo
 *.pyd
